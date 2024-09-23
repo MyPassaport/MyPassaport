@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting projects that involve backend development, database management, and mobile app development
 - 📫 How to reach me: [your email or social media handle]
 - 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: I'm an enthusiastic student who loves drumming and has a fascination with altered states of consciousness
+- ⚡ Fun fact: I'm an enthusiastic student who loves drumming 
 
 <!---
 MyPassaport/MyPassaport is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
